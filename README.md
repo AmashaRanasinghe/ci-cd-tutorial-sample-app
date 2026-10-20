@@ -18,6 +18,9 @@ Also:
 
  * How to use [GitHub Actions](https://github.com/features/actions)
 
+The `/health` endpoint returns a JSON health status and can be used to verify that a deployed
+staging environment is running.
+
 ## Requirements
 
  * `Python 3.8`
